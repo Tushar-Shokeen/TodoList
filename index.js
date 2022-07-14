@@ -1,4 +1,4 @@
-//jshint esversion:6
+// jshint esversion:6
 
 const express = require("express");
 const bodyParser = require("body-parser");
@@ -83,8 +83,6 @@ app.get("/:customListName", function(req, res){
       }
     }
   });
-
-
 
 });
 
