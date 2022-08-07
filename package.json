@@ -1,7 +1,6 @@
 {
   "name": "todolists",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "lodash": "^4.17.21",
@@ -20,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/Tushar-Shokeen/TodoList/issues"
   },
-  "homepage": "https://github.com/Tushar-Shokeen/TodoList#readme"
+  "homepage": "https://github.com/Tushar-Shokeen/TodoList#readme",
+  "description": ""
 }
