@@ -1,31 +1,24 @@
 {
-  "name": "todolist-v1",
+  "name": "todolists",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-    },
-  "author": "",
-  "license": "ISC",
-  "engines": {
-    "node": "14.17.4"
-  },
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "ejs": "^2.6.1",
-    "express": "^4.16.3",
     "lodash": "^4.17.21",
     "mongoose": "^6.0.5"
   },
-  "keywords": [],
   "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tushar-Shokeen/ToDoList-V2.git"
+    "url": "git+https://github.com/Tushar-Shokeen/TodoList.git"
   },
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Tushar-Shokeen/ToDoList-V2/issues"
+    "url": "https://github.com/Tushar-Shokeen/TodoList/issues"
   },
-  "homepage": "https://github.com/Tushar-Shokeen/ToDoList-V2#readme",
-  "description": ""
+  "homepage": "https://github.com/Tushar-Shokeen/TodoList#readme"
 }
